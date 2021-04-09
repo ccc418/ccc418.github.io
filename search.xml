@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>HTML介绍</title>
+    <url>/2021/04/01/HTML5%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<h1 id="关于HTML"><a href="#关于HTML" class="headerlink" title="关于HTML"></a>关于HTML</h1><span id="more"></span>
+
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210401173049634.png" alt="html文档结构"></p>
+<hr>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210401224040610.png" alt="head标签"></p>
+<hr>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210401224630193.png" alt="body标签"></p>
+<hr>
+<!--注释文字-->
+
+<p>什么是代码注释？代码注释的作用是帮助程序员标注代码的用途，过一段时间后再看你所编写的代码，就能很快想起这段代码的用途。代码注释不仅方便程序员自己回忆起以前代码的用途，还可以帮助其他程序员很快的读懂你的程序的功能，方便多人合作开发网页代码。</p>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>HTML5效果标签</title>
+    <url>/2021/04/01/HTML5%E6%95%88%E6%9E%9C%E6%A0%87%E7%AD%BE/</url>
+    <content><![CDATA[<p>在 html 中是忽略回车和空格的，你输入的再多回车和空格也是显示不出来的。</p>
+<span id="more"></span>
+
+<p>因此，在html文本中想输入回车换行，就必须输入换行效果标签：</p>
+<figure class="highlight html"><table><tbody><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">br</span> /&gt;</span></span><br></pre></td></tr></tbody></table></figure>
+
+<p>在html文本中想输入空格，就必须输入特殊字符实现空格标签：</p>
+<figure class="highlight html"><table><tbody><tr><td class="code"><pre><span class="line"><span class="symbol">&amp;nbsp;</span></span><br></pre></td></tr></tbody></table></figure>
+
+<hr>
+<p>在信息展示时，有时会需要加一些用于分隔的横线，这样会使文章看起来整齐些。这个时候就要用到水平线标签：</p>
+<figure class="highlight html"><table><tbody><tr><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">hr</span> /&gt;</span></span><br></pre></td></tr></tbody></table></figure>
+
+<p>它与换行效果标签一样也是一个空标签，所以只有一个开始标签，没有结束标签。</p>
+<p>水平线标签在浏览器中的默认样式线条比较粗，颜色为灰色，可能有些人觉得这种样式不美观，没有关系，这些外在样式在我们以后学习了css样式表之后，都可以对其修改。</p>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>HTML5语义化标签</title>
+    <url>/2021/04/01/HTML5%E8%AF%AD%E4%B9%89%E5%8C%96%E6%A0%87%E7%AD%BE/</url>
+    <content><![CDATA[<h1 id="span标签"><a href="#span标签" class="headerlink" title="span标签"></a>span标签</h1><span id="more"></span>
+
+<h2 id="关于span标签"><a href="#关于span标签" class="headerlink" title="关于span标签"></a>关于span标签</h2><h3 id="这个标签是没有语义的，它的作用就是为了设置单独的样式用的。"><a href="#这个标签是没有语义的，它的作用就是为了设置单独的样式用的。" class="headerlink" title="这个标签是没有语义的，它的作用就是为了设置单独的样式用的。"></a>这个标签是没有语义的，它的作用就是为了<ins><strong>设置单独的样式</strong></ins>用的。</h3><p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210401230249932.png" alt="把“美国梦”设置为蓝色"></p>
+<hr>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210401230844455.png" alt="header标签用来定义头部区域"></p>
+<hr>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210401230928137.png" alt="footer标签用来定义底部区域"></p>
+<hr>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210401231003433.png" alt="section标签定义一个区域"></p>
+<hr>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210401231100031.png" alt="aside标签定义一个侧边栏区域"></p>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>HTML参考手册</title>
+    <url>/2021/03/06/HTML%E5%8F%82%E8%80%83%E6%89%8B%E5%86%8C/</url>
+    <content><![CDATA[<h1 id="按字母顺序排列"><a href="#按字母顺序排列" class="headerlink" title="按字母顺序排列"></a>按字母顺序排列</h1><span id="more"></span>
+
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210330192752489.png" alt="Part 1"></p>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210330192840967.png" alt="Part 2"></p>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210330192907074.png" alt="Part 3"></p>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210330192933835.png" alt="Part 4"></p>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210330192959961.png" alt="Part 5"></p>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210330193020471.png" alt="Part 6"></p>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210330193041678.png" alt="Part 7"></p>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210330193055930.png" alt="Part 8"></p>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>世界这么大，我想去看看</title>
+    <url>/2020/10/18/%E4%B8%96%E7%95%8C%E8%BF%99%E4%B9%88%E5%A4%A7%EF%BC%8C%E6%88%91%E6%83%B3%E5%8E%BB%E7%9C%8B%E7%9C%8B/</url>
+    <content><![CDATA[<h1 id="科学上网！"><a href="#科学上网！" class="headerlink" title="科学上网！"></a>科学上网！</h1><span id="more"></span>
+
+<h2 id="这是一个有用的TZ"><a href="#这是一个有用的TZ" class="headerlink" title="这是一个有用的TZ"></a>这是一个有用的TZ</h2><h3 id="适用于Android"><a href="#适用于Android" class="headerlink" title="适用于Android"></a><strong>适用于Android</strong></h3><p><a href="https://www.lanzous.com/ibh4shc">点此下载</a></p>
+<h3 id="关注公众号：八月的微风"><a href="#关注公众号：八月的微风" class="headerlink" title="关注公众号：八月的微风"></a>关注公众号：<strong>八月的微风</strong></h3><h3 id="回复关键词：科学上网"><a href="#回复关键词：科学上网" class="headerlink" title="回复关键词：科学上网"></a>回复关键词：科学上网</h3><h3 id="获取下载密码"><a href="#获取下载密码" class="headerlink" title="获取下载密码"></a>获取下载密码</h3><p><img data-src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2575552648,1957245790&amp;fm=26&amp;gp=0.jpg" alt="翻墙"></p>
+<hr>
+]]></content>
+      <categories>
+        <category>软件</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>免翻__极速访问外网</title>
+    <url>/2021/04/06/%E5%85%8D%E7%BF%BB-%E6%9E%81%E9%80%9F%E8%AE%BF%E9%97%AE%E5%A4%96%E7%BD%91/</url>
+    <content><![CDATA[<h1 id="超级推荐！无敌黑科技！芜湖起飞！！！"><a href="#超级推荐！无敌黑科技！芜湖起飞！！！" class="headerlink" title="超级推荐！无敌黑科技！芜湖起飞！！！"></a>超级推荐！无敌黑科技！芜湖起飞！！！</h1><span id="more"></span>
+
+<h2 id="软件名称：UPX浏览器"><a href="#软件名称：UPX浏览器" class="headerlink" title="软件名称：UPX浏览器"></a>软件名称：UPX浏览器</h2><h3 id="进入软件后浏览器会自动分配一个国ip给你，你就可以直接访问网站了，网速也是非常快，看视频很流畅"><a href="#进入软件后浏览器会自动分配一个国ip给你，你就可以直接访问网站了，网速也是非常快，看视频很流畅" class="headerlink" title="进入软件后浏览器会自动分配一个国ip给你，你就可以直接访问网站了，网速也是非常快，看视频很流畅"></a>进入软件后浏览器会自动分配一个国ip给你，你就可以直接访问网站了，网速也是非常快，看视频很流畅</h3><p>新版变化（v87.0.4280.141） 87.2Mb</p>
+<p>更新日期 2021–2月21</p>
+<p>UPX浏览器</p>
+<p>免费无限使用</p>
+<ul>
+<li>无限带宽</li>
+<li>无时间限制</li>
+<li>无需注册，没有任何隐藏费用</li>
+<li> 100％无限的免费V*N！</li>
+<li>适用于手机和平板电脑</li>
+</ul>
+<p>全球支持与多个服务器的地址</p>
+<ul>
+<li>最高速度和稳定的连接</li>
+<li>全球网络，美国（美国），日本，新加坡，加拿大，法国，德国，英国，俄罗斯等免费代理..</li>
+<li>沙特阿拉伯和阿拉伯联合酋长国最佳的连接速度新版变化</li>
+</ul>
+<h2 id="点此下载"><a href="#点此下载" class="headerlink" title="点此下载"></a><a href="https://wwa.lanzous.com/idd8nnqik9g"><em><strong>点此下载</strong></em></a></h2><h3 id="关注公众号：八月的微风"><a href="#关注公众号：八月的微风" class="headerlink" title="关注公众号：八月的微风"></a>关注公众号：<strong>八月的微风</strong></h3><h3 id="回复关键词：免翻"><a href="#回复关键词：免翻" class="headerlink" title="回复关键词：免翻"></a>回复关键词：<strong>免翻</strong></h3><h3 id="获取下载密码"><a href="#获取下载密码" class="headerlink" title="获取下载密码"></a>获取下载密码</h3><h4 id=""><a href="#" class="headerlink" title=""></a></h4><p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210406235655818.png" alt="效果图"></p>
+]]></content>
+      <categories>
+        <category>软件</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>网页设计与制作</title>
+    <url>/2021/03/06/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%88%B6%E4%BD%9C/</url>
+    <content><![CDATA[<h1 id="HTML-基础"><a href="#HTML-基础" class="headerlink" title="HTML 基础"></a>HTML 基础</h1><span id="more"></span>
+
+<h3 id="什么是-HTML？"><a href="#什么是-HTML？" class="headerlink" title="什么是 HTML？"></a>什么是 HTML？</h3><h4 id="HTML-是用来描述网页的一种语言。"><a href="#HTML-是用来描述网页的一种语言。" class="headerlink" title="HTML 是用来描述网页的一种语言。"></a>HTML 是用来描述网页的一种语言。</h4><ul>
+<li><p>HTML 指的是<u>超文本标记语言</u> (Hyper Text Markup Language)</p>
+</li>
+<li><p>HTML 不是一种编程语言，而是一种<strong>标记语言</strong> (markup language)</p>
+</li>
+<li><p>标记语言是一套<strong>标记标签</strong> (markup tag)</p>
+</li>
+<li><p>HTML 使用<strong>标记标签</strong>来描述网页</p>
+<hr>
+</li>
+</ul>
+<h3 id="HTML-标签"><a href="#HTML-标签" class="headerlink" title="HTML 标签"></a>HTML 标签</h3><h4 id="HTML-标记标签通常被称为-HTML-标签-HTML-tag-。"><a href="#HTML-标记标签通常被称为-HTML-标签-HTML-tag-。" class="headerlink" title="HTML 标记标签通常被称为 HTML 标签 (HTML tag)。"></a>HTML 标记标签通常被称为 HTML 标签 (HTML tag)。</h4><ul>
+<li><p>HTML 标签是由<strong>尖括号</strong>包围的关键词，比如 </p>
+</li>
+<li><p>HTML 标签通常是<strong>成对出现</strong>的，比如 <b> 和 </b></p>
+</li>
+<li><p>标签对中的第一个标签是<strong>开始标签</strong>，第二个标签是<strong>结束标签</strong></p>
+</li>
+<li><p>开始和结束标签也被称为<strong>开放标签</strong>和<strong>闭合标签</strong></p>
+<hr>
+</li>
+</ul>
+<h3 id="HTML-文档-网页"><a href="#HTML-文档-网页" class="headerlink" title="HTML 文档 = 网页"></a>HTML 文档 = 网页</h3><ul>
+<li>HTML 文档<strong>描述网页</strong></li>
+<li>HTML 文档<strong>包含 HTML 标签</strong>和纯文本</li>
+<li>HTML 文档也被称为<strong>网页</strong></li>
+</ul>
+<p>Web 浏览器的作用是读取 HTML 文档，并以网页的形式显示出它们。浏览器不会显示 HTML 标签，而是使用标签来解释页面的内容：</p>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210306151939198.png" alt=" "></p>
+<p><img data-src="https://gitee.com/ccc418/tc/raw/master/image-20210306152142537.png" alt=" "></p>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+</search>
